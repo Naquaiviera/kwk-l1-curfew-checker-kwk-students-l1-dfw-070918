@@ -1,9 +1,10 @@
 def simple_curfew_checker(time)
-  # code goes here
+  if time == 11
+    puts "your late!"
+ end
 end
-
 def curfew_checker(time)
-  # code goes here
+  
 end
 
 def complex_curfew_checker(time)
